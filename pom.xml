@@ -2,7 +2,6 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>QuizGen</groupId>
   <artifactId>QuizGen</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
   <dependencies>
   	<dependency>
 		<groupId>com.univocity</groupId>
@@ -26,4 +25,9 @@
 		<version>3.7</version>
 	</dependency>
   </dependencies>
+  <version>0.0.5</version>
+  <properties>
+    <maven.compiler.source>1.6</maven.compiler.source>
+    <maven.compiler.target>1.6</maven.compiler.target>
+  </properties>
 </project>
